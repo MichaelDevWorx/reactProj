@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr {
+    margin: 5px;
+}
+
+button {
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 3px;
+}
+
+.counter {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: red;
+}
+
+.word {
+    border: 2px solid salmon;
+}
